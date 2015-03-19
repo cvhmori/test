@@ -24,6 +24,8 @@
 #include <inotifytools/inotify.h>
 
 
+/* hmori test comment */
+
 extern char *optarg;
 extern int optind, opterr, optopt;
 
