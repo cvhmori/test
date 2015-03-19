@@ -26,6 +26,8 @@
 extern char *optarg;
 extern int optind, opterr, optopt;
 
+/* hmori test comment */
+
 #define MAX_STRLEN 4096
 #define EXCLUDE_CHUNK 1024
 
